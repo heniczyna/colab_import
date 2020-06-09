@@ -1,3 +1,5 @@
+*[View on Github](https://github.com/heniczyna/colab_import)*
+
 Based on:
 
 https://github.com/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb
