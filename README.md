@@ -1,10 +1,9 @@
 *[View on Github](https://github.com/heniczyna/colab_import)*
 
-Based on:
+# *Testing the integration of Github and Google Colab*
 
-<https://github.com/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb>
-
-And the same with direct opening in Google Colab 
+Based on this [guide](https://github.com/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)<br/>
+And the same with direct opening in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
